@@ -1,0 +1,17 @@
+[32m2020-12-17 20:17:37 [INFO] 
+            _      _                   
+           | |    | |                  
+ ___   ___ | |  __| |  ___   _ __ ___  
+/ __| / _ \| | / _` | / _ \ | '_ ` _ \ 
+\__ \|  __/| || (_| || (_) || | | | | |
+|___/ \___||_| \__,_| \___/ |_| |_| |_| 
+-----------------------------------------
+                             @itest.info
+[0m
+[32m2020-12-17 20:17:43 [INFO] ✅ Find element: xpath=//*[@id="app"]/div/div[1]/div[2]/div[2]/div[2]/div/form/div[1]/div/div/div/input [0m
+[32m2020-12-17 20:17:44 [INFO] 🖋 input 'gree'.[0m
+[32m2020-12-17 20:17:44 [INFO] ✅ Find element: xpath=//*[@id="app"]/div/div[1]/div[2]/div[2]/div[2]/div/form/div[2]/div/div/div/input [0m
+[32m2020-12-17 20:17:44 [INFO] 🖋 input 'abcd4321'.[0m
+[32m2020-12-17 20:17:45 [INFO] ✅ Find element: xpath=//*[@id="app"]/div/div[1]/div[2]/div[2]/div[2]/div/form/div[3]/div/button [0m
+[32m2020-12-17 20:17:45 [INFO] 🖱 click.[0m
+[32m2020-12-17 20:17:45 [INFO] generated html file: file:///D:\LF\mypro\reports\2020_12_17_20_17_37_result.html[0m

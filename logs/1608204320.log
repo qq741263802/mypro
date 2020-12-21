@@ -1,0 +1,43 @@
+[32m2020-12-17 19:25:30 [INFO] 
+            _      _                   
+           | |    | |                  
+ ___   ___ | |  __| |  ___   _ __ ___  
+/ __| / _ \| | / _` | / _ \ | '_ ` _ \ 
+\__ \|  __/| || (_| || (_) || | | | | |
+|___/ \___||_| \__,_| \___/ |_| |_| |_| 
+-----------------------------------------
+                             @itest.info
+[0m
+[32m2020-12-17 19:25:37 [INFO] ✅ Find element: id=kw [0m
+[32m2020-12-17 19:25:38 [INFO] 🖋 input 'seldom'.[0m
+[32m2020-12-17 19:25:38 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-12-17 19:25:39 [INFO] 🖱 click.[0m
+[32m2020-12-17 19:25:42 [INFO] 👀 assertIn title: seldom_百度搜索.[0m
+[32m2020-12-17 19:25:43 [INFO] ✅ Find element: id=kw [0m
+[32m2020-12-17 19:25:43 [INFO] 🖋 input 'selenium'.[0m
+[32m2020-12-17 19:25:43 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-12-17 19:25:44 [INFO] 🖱 click.[0m
+[32m2020-12-17 19:25:45 [INFO] 👀 assertIn title: selenium_百度搜索.[0m
+[32m2020-12-17 19:25:46 [INFO] ✅ Find element: id=kw [0m
+[32m2020-12-17 19:25:47 [INFO] 🖋 input 'unittest'.[0m
+[32m2020-12-17 19:25:47 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-12-17 19:25:48 [INFO] 🖱 click.[0m
+[32m2020-12-17 19:25:49 [INFO] 👀 assertIn title: unittest_百度搜索.[0m
+[31m2020-12-17 19:26:01 [ERROR] ❌ Find 0 elements through: link text=设置[0m
+[32m2020-12-17 19:26:02 [INFO] ✅ Find element: id=kw [0m
+[32m2020-12-17 19:26:03 [INFO] 🖋 input 'seldom'.[0m
+[32m2020-12-17 19:26:03 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-12-17 19:26:03 [INFO] 🖱 click.[0m
+[32m2020-12-17 19:26:04 [INFO] 👀 assertIn title: seldom_百度搜索.[0m
+[32m2020-12-17 19:26:05 [INFO] ✅ Find element: id=kw [0m
+[32m2020-12-17 19:26:06 [INFO] 🖋 input 'poium'.[0m
+[32m2020-12-17 19:26:06 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-12-17 19:26:07 [INFO] 🖱 click.[0m
+[32m2020-12-17 19:26:08 [INFO] 👀 assertIn title: poium_百度搜索.[0m
+[32m2020-12-17 19:26:08 [INFO] ✅ Find element: id=kw [0m
+[32m2020-12-17 19:26:09 [INFO] 🖋 input 'HTMLTestRunner'.[0m
+[32m2020-12-17 19:26:09 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-12-17 19:26:10 [INFO] 🖱 click.[0m
+[32m2020-12-17 19:26:11 [INFO] 👀 assertIn title: HTMLTestRunner_百度搜索.[0m
+[32m2020-12-17 19:26:19 [INFO] 👀 assertIn url: http://www.itest.info/.[0m
+[32m2020-12-17 19:26:19 [INFO] generated html file: file:///D:\LF\mypro\reports\2020_12_17_19_25_30_result.html[0m

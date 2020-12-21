@@ -1,0 +1,23 @@
+[32m2020-12-17 20:22:45 [INFO] 
+            _      _                   
+           | |    | |                  
+ ___   ___ | |  __| |  ___   _ __ ___  
+/ __| / _ \| | / _` | / _ \ | '_ ` _ \ 
+\__ \|  __/| || (_| || (_) || | | | | |
+|___/ \___||_| \__,_| \___/ |_| |_| |_| 
+-----------------------------------------
+                             @itest.info
+[0m
+[32m2020-12-17 20:22:56 [INFO] ✅ Find element: xpath=//*[@id="app"]/div/div[1]/div[2]/div[2]/div[2]/div/form/div[1]/div/div/div/input [0m
+[32m2020-12-17 20:22:57 [INFO] 🖋 input 'gree'.[0m
+[32m2020-12-17 20:22:57 [INFO] ✅ Find element: xpath=//*[@id="app"]/div/div[1]/div[2]/div[2]/div[2]/div/form/div[2]/div/div/div/input [0m
+[32m2020-12-17 20:22:57 [INFO] 🖋 input 'abcd4321'.[0m
+[32m2020-12-17 20:22:58 [INFO] ✅ Find element: xpath=//*[@id="app"]/div/div[1]/div[2]/div[2]/div[2]/div/form/div[3]/div/button [0m
+[32m2020-12-17 20:22:58 [INFO] 🖱 click.[0m
+[32m2020-12-17 20:23:00 [INFO] ✅ Find element: xpath=//*[@id="app"]/section/section/div/div[1]/div[1]/div/ul/div[2]/li/div/span [0m
+[32m2020-12-17 20:23:01 [INFO] 🖱 click.[0m
+[32m2020-12-17 20:23:01 [INFO] ✅ Find element: xpath=//*[@id="app"]/section/section/div/div[1]/div[1]/div/ul/div[2]/li/ul/li[1]/span [0m
+[32m2020-12-17 20:23:02 [INFO] 🖱 click.[0m
+[32m2020-12-17 20:23:07 [INFO] ✅ Find element: xpath=//*[@id="app"]/div/div[2]/div[1]/div/form[1]/div[1]/div/div/input [0m
+[32m2020-12-17 20:23:08 [INFO] 🖋 input 'SP1000247'.[0m
+[32m2020-12-17 20:23:14 [INFO] generated html file: file:///D:\LF\mypro\reports\2020_12_17_20_22_45_result.html[0m

@@ -1,0 +1,5 @@
+[32m2020-12-16 12:50:41 [INFO] 	Downloading from: https://cdn.npm.taobao.org/dist/chromedriver/87.0.4280.88/chromedriver_win64.zip[0m
+[32m2020-12-16 12:50:41 [INFO] 	To: D:\LF\mypro\lib\chromedriver_win64.zip[0m
+[32m2020-12-16 12:50:42 [INFO] Download for 64 version failed; Trying alternates.[0m
+[32m2020-12-16 12:50:42 [INFO] 	Downloading from: https://cdn.npm.taobao.org/dist/chromedriver/87.0.4280.88/chromedriver_win32.zip[0m
+[32m2020-12-16 12:50:42 [INFO] 	To: D:\LF\mypro\lib\chromedriver_win32.zip[0m
